@@ -2,5 +2,5 @@
 
 Tensorflow v2.0
 ****************
-Use this model for alpha and numeric character prediction. This model is trained english alpabet and numeric values (obtained form EMNIST dataset).
+Use this model for alpha and numeric character prediction. This model is trained on english alpabet and numeric values (obtained form EMNIST dataset).
 
